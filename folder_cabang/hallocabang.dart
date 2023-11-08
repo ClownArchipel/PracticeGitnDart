@@ -1,0 +1,3 @@
+toPrint(){
+  print("hai printer");
+}
